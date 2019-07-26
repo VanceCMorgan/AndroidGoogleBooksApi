@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="ProjectName">Project - Vance Morgan 000384251</string>
+    <string name="Authors">AUTHORS:</string>
+    <string name="nextLine" />
+    <string name="Description">DESCRIPTION:</string>
+    <string name="PublisherInfo">PUBLISHER INFO:</string>
+    <string name="NoResults">No Results Found!</string>
+</resources>
